@@ -7,7 +7,7 @@
 <div align="center">
     <a href="https://github.com/LeeChangmin0310">
         <img src="https://github-stats-alpha.vercel.app/api?username=LeeChangmin0310&cc=60,706b6b,000000&tc=ffffff&ic=ffffff&bc=00000000"><br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Serif&size=18&duration=2500&pause=1000&multiline=true&width=600&height=100&lines=Lee+Changmin;Researcher+%7C+AI+%7C+Brain+Computer+Interface+%7C+Brain+Decoding%7C&color=ffffff" 
+        <img src="https://readme-typing-svg.demolab.com?font=Serif&size=18&duration=2500&pause=1000&multiline=true&width=700&height=80&lines=Lee+Changmin;Researcher+%7C+AI+%7C+Brain+Computer+Interface+%7C+Brain+Decoding%7C&color=ffffff" 
 alt="Typing SVG"/>
     </a>
 </div>
