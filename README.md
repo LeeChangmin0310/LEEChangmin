@@ -1,4 +1,4 @@
-# 🌟 Changmin LEE  
+# 🤖 Changmin LEE  
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:513e3e,100:e8e8e8&height=180&text=Good%20day%20to%20Research&animation=fadeIn&fontColor=c1bdbd&fontSize=50" />
