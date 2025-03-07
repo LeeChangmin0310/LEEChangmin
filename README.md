@@ -77,7 +77,7 @@
 </p>
 
 ### ✨ **Sub Tech Stacks**  
-<div align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
@@ -86,10 +86,10 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
-</div>
+</p>
 
 ### 🛠 **Tools**  
-<div align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
@@ -98,16 +98,16 @@
     <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat&logo=visual-studio-code&logoColor=22ABF3">
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252">
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white">
-</div>
+</p>
 
 ### 💻 **Operating Systems**
-<div align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/WSL-0a97f5?style=flat&logo=linux&logoColor=white">
-</div>
+</p>
 
 ---
 
