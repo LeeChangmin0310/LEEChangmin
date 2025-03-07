@@ -1,4 +1,4 @@
-# 🤖 Changmin LEE  
+# Changmin LEE  
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:513e3e,100:e8e8e8&height=180&text=Good%20day%20to%20Research&animation=fadeIn&fontColor=c1bdbd&fontSize=50" />
@@ -17,12 +17,12 @@
 ---
 
 ## 👋 **About Me**  
-🎓 **Studying AI at Sangmyung University, Seoul, Korea**  
-🧠 Aspiring **Researcher in Brain-Computer Interface (BCI) & Brain Decoding**  
+🎓 **Studying AI at Sangmyung University, Seoul, Korea**<br/>
+🧠 Aspiring **Researcher in Brain-Computer Interface (BCI) & Brain Decoding**<br/>
 🤖 Interested in **Artificial Intelligence**  
 
 
-### 📬 **Contact Me**  
+### 📬 **Contact**  
 <p align="left">
     <a href="mailto:ckdals1380@gmail.com">
         <img src="https://img.shields.io/badge/ckdals1380@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white">
@@ -60,7 +60,7 @@
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&hide_progress=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&hide_progress=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="47%"/>
 </div>
 
 <div align="center">
@@ -71,9 +71,9 @@
 
 ---
 
-## 🛠️ **Tech Stacks**  
+## 🧱 **Tech Stacks** 🧱
 
-### 🔥 **Main Tech Stacks**  
+### 🔥 **Main Tech Stacks** 🔥
 <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
 </p>
 
-### ✨ **Sub Tech Stacks**  
+### ✨ **Sub Tech Stacks** ✨
 <p align="left">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
 </p>
 
-### 🛠 **Tools**  
+### 🛠 **Tools** 🛠 
 <p align="left">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white">
 </p>
 
-### 💻 **Operating Systems**
+### 💻 **Operating Systems** 💻
 <p align="left">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
