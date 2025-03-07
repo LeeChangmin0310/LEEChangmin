@@ -15,15 +15,17 @@ alt="Typing SVG"/>
 
 ---
 ## 👋 Hello, I'm Changmin Lee  
-- **Contact:** <a href="https://www.instagram.com/lbrightjade/">
+- **Contact:**
+<a href="mailto:ckdals1380@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/lbrightjade/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
     </a>
-    <a href="mailto:ckdals1380@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
-    </a>
+
 - 🚀 **will be updated**
 
 ---
