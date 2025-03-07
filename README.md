@@ -20,7 +20,7 @@
 </div>
 
 ### ✨ Sub Tech Stacks ✨  
-<div align="center">
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
@@ -32,7 +32,7 @@
 </div>
 
 ### 🛠 Tools 🛠  
-<div align="center">
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
@@ -44,7 +44,7 @@
 </div>
 
 ### 💻 OS 💻  
-<div align="center">
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -55,7 +55,7 @@
 ---
 
 ## 🧑‍💻 Contact Me  
-<div align="center">
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://www.instagram.com/lbrightjade/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
@@ -67,7 +67,7 @@
     </a>
 </div>
 
-<div align="center">
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://hits.seeyoufarm.com">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeChangmin0310%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
     </a>
@@ -76,7 +76,7 @@
 ---
 
 ## 🏅 Stats  
-<div align="center">
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"/>
 </div>
