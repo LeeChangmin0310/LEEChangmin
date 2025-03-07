@@ -4,18 +4,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:513e3e,100:e8e8e8&height=180&text=Good%20day%20to%20Research&animation=fadeIn&fontColor=c1bdbd&fontSize=50" />
 </div>
 
-## 🧑‍💻 Contact Me  
-<div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://www.instagram.com/lbrightjade/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-    </a>
-    <a href="mailto:ckdals1380@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
-    </a>
-</div>
 
 <div align="center">
     <a href="https://github.com/LeeChangmin0310">
@@ -27,6 +15,18 @@ alt="Typing SVG"/>
 
 ---
 ## 👋 Hello, I'm Changmin Lee  
+### 🧑‍💻 Contact Me
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="https://www.instagram.com/lbrightjade/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+    </a>
+    <a href="mailto:ckdals1380@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
+    </a>
+</div>
 - 🚀 **will be updated**
 
 ---
