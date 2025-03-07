@@ -69,12 +69,12 @@
 ## 🛠️ **Tech Stacks**  
 
 ### 🔥 **Main Tech Stacks**  
-<div align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/HuggingFace-FFD54F?style=flat&logo=HuggingFace&logoColor=white">
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
-</div>
+</p>
 
 ### ✨ **Sub Tech Stacks**  
 <div align="center">
@@ -100,9 +100,8 @@
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white">
 </div>
 
-  
+### 💻 **Operating Systems**
 <div align="center">
-    ### 💻 **Operating Systems**
     <img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
