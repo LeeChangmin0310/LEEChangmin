@@ -15,7 +15,7 @@ alt="Typing SVG"/>
 
 ---
 ## 👋 Hello, I'm Changmin Lee  
-### 🧑‍💻 Contact Me
+- Contact
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://www.instagram.com/lbrightjade/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
