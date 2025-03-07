@@ -3,20 +3,12 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:513e3e,100:e8e8e8&height=180&text=Good%20day%20to%20Research&animation=fadeIn&fontColor=c1bdbd&fontSize=50" />
 </div>
-
-## 📈 Status
-<div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="49%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&hide_progress=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"width="46%"/>
-</div>
-
-
-<div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeChangmin0310&bg_color=60,706b6b,000000&hide_border=true&line=ffffff&color=ffffff" width="98%"/>
+<p align="center">    
+    <a href="https://github.com/LeeChangmin0310">
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Lee+Changmin;Researcher+%7C+Software+Engineer+%7C+Master's+Student;AI+%7C+Computer+Vision+%7C+Real-Time+Systems" 
+        alt="Typing SVG" style="background-color:#000000; color:#ffffff;"/>
     </a>
-</div>
-
+</p>
 
 ---
 ## 👋 Hello, I'm Changmin Lee  
@@ -35,6 +27,20 @@
 - 🚀 **will be updated**
 
 ---
+
+## 📈 Status
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&hide_progress=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"width="46%"/>
+</div>
+
+
+<div align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeChangmin0310&bg_color=60,706b6b,000000&hide_border=true&line=ffffff&color=ffffff" width="98%"/>
+    </a>
+</div>
+
 
 ## 🛠️ Tech Stacks  
 
