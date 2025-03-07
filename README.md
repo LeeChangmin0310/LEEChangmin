@@ -8,6 +8,10 @@
 - 🚀 **will be updated**
 
 ---
+## 📄 Paper
+- 🚀 **will be updated**
+
+---
 ## 🤖 Projects
 - 🚀 **will be updated**
 
@@ -27,7 +31,7 @@
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
 </div>
 
-### ✨ Sub Tech Stacks ✨  
+#### ✨ Sub Tech Stacks ✨  
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -39,7 +43,7 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
 
-### 🛠 Tools 🛠  
+#### 🛠 Tools 🛠  
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
@@ -51,7 +55,7 @@
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 </div>
 
-### 💻 OS 💻  
+#### 💻 OS 💻  
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
@@ -87,5 +91,7 @@
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"/>
-    <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"/>
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeeChangmin0310&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeeChangmin0310&theme=github_dark"/>
 </div>
