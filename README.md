@@ -25,7 +25,7 @@
 ### 📬 **Contact Me**  
 <p align="left">
     <a href="mailto:ckdals1380@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/ckdals1380@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white">
     </a>
     <a href="https://www.instagram.com/lbrightjade/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
