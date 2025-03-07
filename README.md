@@ -5,8 +5,9 @@
 </div>
 
 <a href="https://github.com/LeeChangmin0310">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&show_icons=true&count_private=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff">
+    <img src="https://github-stats-alpha.vercel.app/api?username=LeeChangmin0310&cc=60,706b6b,000000&tc=ffffff&ic=ffffff&bc=00000000">
 </a>
+
 
 
 ---
