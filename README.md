@@ -17,7 +17,7 @@
 ---
 
 ## 👋 **About Me**  
-🎓 ** Studying AI at Sangmyung University, Seoul, Korea**  
+🎓 **Studying AI at Sangmyung University, Seoul, Korea**  
 🧠 Aspiring **Researcher in Brain-Computer Interface (BCI) & Brain Decoding**  
 🤖 Interested in **Artificial Intelligence**  
 
