@@ -6,18 +6,14 @@
 
 ## 📈 Status
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&hide_progress=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&hide_progress=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"width="49%"/>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=20232a&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="49%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&hide_progress=true&bg_color=20232a&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="49%"/>
-</div>
 
 <div align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeChangmin0310&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="98%"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeChangmin0310&bg_color=60,706b6b,000000&hide_border=true&line=ffffff&color=ffffff" width="98%"/>
     </a>
 </div>
 
