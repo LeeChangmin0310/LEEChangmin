@@ -92,5 +92,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"/>
     <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeeChangmin0310&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&hide_progress=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff"/>
 </div>
