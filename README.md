@@ -3,12 +3,11 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:513e3e,100:e8e8e8&height=180&text=Good%20day%20to%20Research&animation=fadeIn&fontColor=c1bdbd&fontSize=50" />
 </div>
-<p align="center">    
-    <a href="https://github.com/LeeChangmin0310">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Lee+Changmin;Researcher+%7C+Software+Engineer+%7C+Master's+Student;AI+%7C+Computer+Vision+%7C+Real-Time+Systems" 
-        alt="Typing SVG" style="background-color:#000000; color:#ffffff;"/>
-    </a>
-</p>
+
+<a href="https://github.com/LeeChangmin0310">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&show_icons=true&count_private=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff">
+</a>
+
 
 ---
 ## 👋 Hello, I'm Changmin Lee  
