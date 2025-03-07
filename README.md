@@ -17,9 +17,9 @@
 ---
 
 ## 👋 **About Me**  
-🎓 **Researcher in AI & Brain Computing**  
-🧠 Focused on **Brain-Computer Interface (BCI) & Brain Decoding**  
-🤖 Interested in **Artificial Intelligence & Neural Signal Processing**  
+🎓 ** Studying AI at Sangmyung University, Seoul, Korea**  
+🧠 Aspiring **Researcher in Brain-Computer Interface (BCI) & Brain Decoding**  
+🤖 Interested in **Artificial Intelligence**  
 
 
 ### 📬 **Contact Me**  
@@ -34,6 +34,21 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
     </a>
 </p>
+
+---
+
+## 📄 **Paper**  
+- 🚀 **will be updated**
+
+---
+
+## 🤖 **Projects**  
+- 🚀 **will be updated**
+
+---
+
+## 🏆 **Awards**  
+- 🚀 **will be updated**
 
 ---
 
