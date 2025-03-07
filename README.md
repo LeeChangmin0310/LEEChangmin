@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stacks  
 
 ### 🔥 Main Tech Stacks 🔥  
-<div align="center">
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/HuggingFace-FFD54F?style=for-the-badge&logo=HuggingFace&logoColor=white">
