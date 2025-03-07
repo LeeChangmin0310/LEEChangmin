@@ -4,11 +4,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:513e3e,100:e8e8e8&height=180&text=Good%20day%20to%20Research&animation=fadeIn&fontColor=c1bdbd&fontSize=50" />
 </div>
 
-<a href="https://github.com/LeeChangmin0310">
-    <img src="https://github-stats-alpha.vercel.app/api?username=LeeChangmin0310&cc=60,706b6b,000000&tc=ffffff&ic=ffffff&bc=00000000">
-</a>
-
-
+<div align="center">
+    <a href="https://github.com/LeeChangmin0310">
+        <img src="https://github-stats-alpha.vercel.app/api?username=LeeChangmin0310&cc=60,706b6b,000000&tc=ffffff&ic=ffffff&bc=00000000">
+    </a>
+</div>
 
 ---
 ## 👋 Hello, I'm Changmin Lee  
